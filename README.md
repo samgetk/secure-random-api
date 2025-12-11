@@ -1,4 +1,4 @@
-# Assignment for Mereb Technologies PHP Developer Position: Secure Random API
+# Secure Random API
 
 This project provides an API that generates secure random numbers using the `getSecureRandom` method from `utils.php`. It also includes test cases to validate the functionality and performance tests for evaluation.
 
